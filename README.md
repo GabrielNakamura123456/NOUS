@@ -91,7 +91,7 @@ Projeto desenvolvido para fins acadêmicos.
 https://dev.azure.com/SEU-USUARIO/NOUS
 
 ### Vídeo dos Testes Automatizados
-https://drive.google.com/SEU-LINK
+https://www.youtube.com/watch?v=UgyoGOw5ykA
 
 ### GitHub do Projeto
 https://github.com/SEU-USUARIO/NOUS
