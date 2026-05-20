@@ -82,3 +82,16 @@ Execução das atividades de Quality Assurance:
 ## Repositório Acadêmico
 
 Projeto desenvolvido para fins acadêmicos.
+
+---
+
+## Links do Projeto
+
+### Azure DevOps
+https://dev.azure.com/SEU-USUARIO/NOUS
+
+### Vídeo dos Testes Automatizados
+https://drive.google.com/SEU-LINK
+
+### GitHub do Projeto
+https://github.com/SEU-USUARIO/NOUS
