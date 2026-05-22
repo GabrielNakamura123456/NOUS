@@ -88,7 +88,7 @@ Projeto desenvolvido para fins acadêmicos.
 ## Links do Projeto
 
 ### Azure DevOps
-https://dev.azure.com/nous-oracle/NOUS
+https://dev.azure.com/nous-oracle/NOUS/_boards
 
 ### Vídeo dos Testes Automatizados
 https://www.youtube.com/watch?v=UgyoGOw5ykA
